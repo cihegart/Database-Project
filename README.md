@@ -1,7 +1,7 @@
 # Database-Project
  Report includes:
- Design of database
- Entity Relation Diagram
- Dependency Diagram
- Relational Schema
- Code
+  1. Design of database
+  2. Entity Relation Diagram
+  3. Dependency Diagram
+  4. Relational Schema
+  5. Code
